@@ -2,7 +2,7 @@
   color: rgb(69, 209, 104);
 } */
 h1 {
-    color: bllue;
+    color: red;
     text-align: center;
 }
 
@@ -13,9 +13,10 @@ h2 {
 
 p {
   font-family: sans-serif;
+  font-weight: bolder;
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 100px;
+  line-height: 60px;
 }
