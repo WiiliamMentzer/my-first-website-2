@@ -1,0 +1,16 @@
+/* title{
+  color:blanchedalmond;
+  text-align: center;
+} */
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+li{
+  font-weight: bold;
+}
+h1{
+  line-height: 25px;
+  color:blanchedalmond;
+  text-align: center;
+}
